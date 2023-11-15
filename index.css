@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.password-field{
+    width:100px;
+    height:39px;
+    background-color:#273549;
+}
+
+.passwords{
+    display:flex;
+    justify-content:space-batween;
+}
